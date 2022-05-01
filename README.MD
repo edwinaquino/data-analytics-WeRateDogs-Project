@@ -7,6 +7,21 @@ Real-world data rarely comes clean. We will be using Python and its libraries to
 
 The dataset that we will be wrangling, analyzing and visualizing is the tweet archive of Twitter user @dog_rates, also known as WeRateDogs. WeRateDogs is a Twitter account that rates people's dogs with a humorous comment about the dog. WeRateDogs downloaded their Twitter archive and sent it to Udacity via email exclusively for us to use in this project. This archive contains basic tweet data (tweet ID, timestamp, text, etc.) for all 5000+ of their tweets as they stood on August 1, 2017.
 
+## Included required libraries for this project
+*  Jupyter Notebook
+*  Pandas
+*  Datetime
+*  Numpy
+*  Requests
+*  Json
+*  Re
+*  Time
+*  Wweepy
+*  Matplotlib
+*  Matplotlib.pyplot
+*  Matplotlib
+*  Seaborn
+
 ## Full Report
 [WeRateDogs Project](https://edwinaquino.github.io/data-analytics-WeRateDogs-Project/wrangle_act.html)
 
