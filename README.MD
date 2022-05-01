@@ -27,6 +27,6 @@ The dataset that we will be wrangling, analyzing and visualizing is the tweet ar
 
 [Insight and Visualization](https://edwinaquino.github.io/data-analytics-WeRateDogs-Project/act_report.html)
 
-[Data Wrangling Report](https://edwinaquino.github.io/data-analytics-WeRateDogs-Project/wrangle_act.html)
+[Data Wrangling Report](https://edwinaquino.github.io/data-analytics-WeRateDogs-Project/wrangle_report.html)
 
 
